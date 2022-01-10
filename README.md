@@ -7,7 +7,7 @@ Group project for the course Deep Learning taught in the autumn semester 2021 at
 1. Clone this repository and also challenge repository: https://github.com/MadryLab/mnist_challenge:
 
 ```
-git clone https://gitlab.ethz.ch/osaeedi/deep-learning-project/
+git clone https://github.com/Mibokess/adversarial-example-generation-and-defense-GAN
 cd deep-learning-project
 git clone https://github.com/MadryLab/mnist_challenge
 ```
